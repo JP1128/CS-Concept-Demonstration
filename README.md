@@ -20,4 +20,4 @@ This repository contains Java (JDK 8) codes that demonstrate the usage of the co
 ## Request
 If you are confused about a concept/technique that is not listed, you are welcome to contact me. If I have time, I will try my best to create a code for a guide. 
 
-**I cannot however answer any question about the graded assignments in CSCI1301 class.** I will only make sample codes that demonstrate the usage of certain concept/technique. 
+**I cannot however answer any questions about the graded assignments in CSCI1301 class.** I will only make sample codes that demonstrate the usage of certain concept/technique. 
