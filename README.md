@@ -9,9 +9,9 @@ This repository contains Java (JDK 8) codes that demonstrate the usage of the co
 
 ## How To Use
 1. Click on the concept/technique you want to review
-2. Click the *Raw* button next to *Blame*
+2. Click the ***Raw*** button next to ***Blame***
 3. Right click anywhere in the newly opened tab
-4. Click *Save as* and save the file as a **.java** file
+4. Click ***Save as*** and save the file as a ***.java*** file
 5. Open the file on Eclipse
 6. Read through the comments and run the program
 7. Experiment with the program!
