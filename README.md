@@ -18,7 +18,18 @@ This repository contains Java (JDK 8) codes that demonstrate the usage of the co
 6. Read through the comments and run the program
 7. Experiment with the program!
 
+## Honor Code
+<details>
+  <summary>Statement of Academic Honesty</summary>
+  <p>
+  The following code represents my own work. I have neither received nor given inappropriate assistance. I have not copied or modified code from any source other than the course webpage or the course textbook. I recognize that any unauthorized assistance or plagiarism will be handled in accordance with the University of Georgia's Academic Honesty Policy and the policies of this course. I recognize that my work is based on an assignment created by the Department of Computer Science at the University of Georgia. Any publishing or posting of source code for this assignment is strictly prohibited unless you have written consent from the Department of Computer Science at the University of Georgia.  
+  </p>
+</details>
+
+<b><em>I WILL BE ADHERING TO THE STATEMENT OF ACADEMIC HONESTY CODE</em>
+<ul><li> Before asking a question, make sure to look over the textbook about the concept </li>
+    <li> I cannot code any of the graded assignments for you </li>
+    <li> If you have a question regarding any of the graded assignments, I will try my best to explain the concept you are struggling on </li></b></ul>
+    
 ## Request
 If you are confused about a concept/technique that is not listed, you are welcome to contact me. If I have time, I will try my best to create a code for a guide. 
-
-**I cannot however answer any questions about the graded assignments in CSCI1301 class.** I will only make sample codes that demonstrate the usage of certain concept/technique. 
