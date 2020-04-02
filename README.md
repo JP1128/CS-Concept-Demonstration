@@ -24,18 +24,18 @@ If you are confused about a concept/technique that is not listed, you are welcom
 ## Honor Code
 <details>
   <summary>Statement of Academic Honesty</summary>
-  <p>
-  The following code represents my own work. I have neither received nor given inappropriate assistance. I have not copied or modified code from any source other than the course webpage or the course textbook. I recognize that any unauthorized assistance or plagiarism will be handled in accordance with the University of Georgia's Academic Honesty Policy and the policies of this course. I recognize that my work is based on an assignment created by the Department of Computer Science at the University of Georgia. Any publishing or posting of source code for this assignment is strictly prohibited unless you have written consent from the Department of Computer Science at the University of Georgia.  
-  </p>
+  <blockquote>
+    The following code represents my own work. I have neither received nor given inappropriate assistance. I have not copied or modified code from any source other than the course webpage or the course textbook. I recognize that any unauthorized assistance or plagiarism will be handled in accordance with the University of Georgia's Academic Honesty Policy and the policies of this course. I recognize that my work is based on an assignment created by the Department of Computer Science at the University of Georgia. Any publishing or posting of source code for this assignment is strictly prohibited unless you have written consent from the Department of Computer Science at the University of Georgia.
+  </blockquote>
 </details>
 
 <b>
   <em>I WILL BE ADHERING TO THE STATEMENT OF ACADEMIC HONESTY CODE</em>
-  Before asking a question:
+  <p>Before asking a question:
   <ul>
-    <li> I will not be coding the graded assignments for you </li>
     <li> Make sure to run and debug your code as best as you can </li>
     <li> Make sure to look over the textbook and lecture about the concept </li>
+    <li> I will not be coding the graded assignments for you </li>
     <li> I will only explain the concept you are struggling on and give you a guide </li>
   </ul>
 </b>
