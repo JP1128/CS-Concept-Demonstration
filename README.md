@@ -32,5 +32,6 @@ If you are confused about a concept/technique that is not listed, you are welcom
 <b><em>I WILL BE ADHERING TO THE STATEMENT OF ACADEMIC HONESTY CODE</em>
 <ul>
   <li> I cannot code any of the graded assignments for you </li>
-  <li> Before asking a question, make sure to look over the textbook about the concept </li>
+  <li> Before asking a question, make sure to run and debug your code as best as you can </li>
+  <li> Before asking a question, make sure to look over the textbook and lecture about the concept </li>
   <li> If you have a question regarding any of the graded assignments, I will try my best to explain the concept you are struggling on </li></b></ul>
