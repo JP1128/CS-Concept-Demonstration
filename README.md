@@ -17,6 +17,9 @@ This repository contains Java (JDK 8) codes that demonstrate the usage of the co
 5. Open the file on Eclipse
 6. Read through the comments and run the program
 7. Experiment with the program!
+    
+## Request
+If you are confused about a concept/technique that is not listed, you are welcome to contact me. If I have time, I will try my best to create a code for a guide. 
 
 ## Honor Code
 <details>
@@ -27,9 +30,7 @@ This repository contains Java (JDK 8) codes that demonstrate the usage of the co
 </details>
 
 <b><em>I WILL BE ADHERING TO THE STATEMENT OF ACADEMIC HONESTY CODE</em>
-<ul><li> Before asking a question, make sure to look over the textbook about the concept </li>
-    <li> I cannot code any of the graded assignments for you </li>
-    <li> If you have a question regarding any of the graded assignments, I will try my best to explain the concept you are struggling on </li></b></ul>
-    
-## Request
-If you are confused about a concept/technique that is not listed, you are welcome to contact me. If I have time, I will try my best to create a code for a guide. 
+<ul>
+  <li> I cannot code any of the graded assignments for you </li>
+  <li> Before asking a question, make sure to look over the textbook about the concept </li>
+  <li> If you have a question regarding any of the graded assignments, I will try my best to explain the concept you are struggling on </li></b></ul>
