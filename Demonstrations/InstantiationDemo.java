@@ -92,7 +92,7 @@ class BoxOfChocolate {
 	// Returns the chocolate at the specified index in the contents
 	public Chocolate getChocolateAt(int index) {
 		if (index < 0 || index > 5) {
-			System.out.println("Index cannot be less than 0 or greater than 9");
+			System.out.println("Index cannot be less than 0 or greater than 5");
 		}
 		return contents[index];
 	}
