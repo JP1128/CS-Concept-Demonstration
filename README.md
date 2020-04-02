@@ -7,7 +7,7 @@ This repository contains Java (JDK 8) codes that demonstrate the usage of the co
   - [Threshold-Based Double Comparison](https://github.com/JP1128/CS-Concept-Demonstration/blob/master/Demonstrations/DoubleComparison.java)
   - [Unit Testing](https://github.com/JP1128/CS-Concept-Demonstration/blob/master/Demonstrations/UnitTesting.java)
   - [String's compareTo(String) Method](https://github.com/JP1128/CS-Concept-Demonstration/blob/master/Demonstrations/CompareTo.java)
-  - [Object Instantiation and Variable Declaration & Obtaining an Object From Another Object](https://github.com/JP1128/CS-Concept-Demonstration/blob/master/Demonstrations/InstantiationDemo.java)
+  - [Object Instantiation vs Variable Declaration & Obtaining an Object From Another Object](https://github.com/JP1128/CS-Concept-Demonstration/blob/master/Demonstrations/InstantiationDemo.java)
 
 ## How To Use
 1. Click on the concept/technique you want to review
