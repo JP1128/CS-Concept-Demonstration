@@ -8,7 +8,13 @@ This note explains the concept of Object-Oriented Programming (OOP) in Java.
   <li> Instance Members 
     <ul>
       <li> Instance Variables </li>
-      <li> Getter and Setter Method </li>
+      <li> Non-Static Methods 
+        <ul>
+          <li> Getter and Setter Method </li>
+        </ul>
+      </li>
+      <li> Static Methods </li>
+      <li> Constructor </li>
     </ul>
   </li>
 </ol>
