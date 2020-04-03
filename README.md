@@ -33,6 +33,7 @@ If you are confused about a concept/technique that is not listed, you are welcom
   <em>I WILL BE ADHERING TO THE STATEMENT OF ACADEMIC HONESTY CODE</em>
   <p>Before asking a question:
   <ul>
+    <li> Make sure you read and understand the instruction </li>
     <li> Make sure to run and debug your code as best as you can </li>
     <li> Make sure to look over the textbook and lecture about the concept </li>
     <li> I will not be coding the graded assignments for you </li>
